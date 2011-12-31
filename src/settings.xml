@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<copter>
+<param title="playerSpeedX">9</param>
+<param title="playerSpeedY">5</param>
+<param title="obstacleSpeed">1.3</param>
+</copter>
